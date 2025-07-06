@@ -180,7 +180,7 @@ body {
 .review-card {
   flex: 1 1 280px;
   background-color: #ffffff;
-  border-left: 4px solid #0097b2;
+  border-left: 4px solid black;
   padding: 1rem 1.25rem;
   border-radius: 6px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
